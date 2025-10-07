@@ -2,5 +2,6 @@
 using namespace std;
 int main() {
     cout << "Hello from my Git test!" << endl;
-    return 0;
+   cout<<"Hello from my new branch"<<endl;   
+ return 0;
 }
